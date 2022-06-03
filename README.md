@@ -12,7 +12,7 @@ A collection of diagrams, reports, and other documents related to database desig
 
 ## Dependencies
 
-These projects built useing a text editor for SQL DDL and commands, access to APEX, and lucidchart.
+These projects built using a text editor for SQL DDL and commands, access to APEX, and lucidchart.
 
 ## Authors
 
